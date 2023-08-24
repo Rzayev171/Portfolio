@@ -1,0 +1,124 @@
+
+* {
+    margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+
+.task{
+    text-align: center;
+    background-image: url(../img/bg-masthead.jpg);
+    width: 100%;
+    padding: 16rem;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+ .button1 {
+text-decoration: none;
+font-size: 20px;
+margin-left: 9px;
+display:inline-block;
+background-color: rgba(0, 162, 255, 0.756);
+color: aliceblue;
+padding: 13px 26px;
+opacity: 0.9;
+border-radius: 5px;
+
+
+ }
+
+
+
+h1 {
+    font-size: 50px;
+    text-align: center;
+}
+h3 {
+    font-size: 30px;
+    text-align: center;
+}
+
+.task2 {
+text-align: center;
+width: 100%;
+padding: 16rem;
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+.button2 {
+    text-decoration: none;
+    font-size: 20px;
+    margin-left: 9px;
+    display:inline-block;
+    background-color: rgb(0, 0, 0);
+    color: aliceblue;
+    padding: 13px 26px;
+    opacity: 0.9;
+    border-radius: 5px;
+
+
+}
+
+.task3 {
+    text-align: center;
+    background-image: url(../img/bg-callout.jpg);
+    width: 100%;
+    padding: 16rem;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.button3 {
+    text-decoration: none;
+font-size: 20px;
+margin-left: 9px;
+display:inline-block;
+background-color: rgba(0, 162, 255, 0.756);
+color: aliceblue;
+padding: 13px 26px;
+opacity: 0.9;
+border-radius: 5px;
+}
+
+.task4 {
+    text-align: center;
+    width: 100%;
+    padding: 16rem;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+color: aliceblue;
+background-color: rgb(3, 119, 145);
+
+}
+
+.button4 {
+    text-decoration: none;
+    font-size: 20px;
+    margin-left: 9px;
+    display:inline-block;
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    padding: 13px 26px;
+    opacity: 0.9;
+    border-radius: 5px;
+}
+
+.button5 {
+    text-decoration: none;
+font-size: 20px;
+margin-left: 9px;
+display:inline-block;
+background-color: rgb(0, 0, 0);
+color: rgb(255, 255, 255);
+padding: 13px 26px;
+opacity: 0.9;
+border-radius: 5px;
+
+}
